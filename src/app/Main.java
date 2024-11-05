@@ -34,7 +34,7 @@ public class Main {
 
     // Набір вхідних даних
     public static String[] getData() {
-        return new String[] {"abc", "5", "2.5", "7"};
+        return new String[] {"abc", "5", "2.5"};
     }
 
     public static void getOutput(String output) {
